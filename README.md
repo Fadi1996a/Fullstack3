@@ -16,3 +16,14 @@ shut down docker
 ```
 docker-compose down
 ```
+# Run server  and Angular
+cd to backend Folder  
+```
+node server.js
+```
+
+
+cd to Frontend Folder  
+```
+ng serve
+```
